@@ -5,9 +5,12 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This course, offered by Microsoft on Coursera, provided a comprehensive
+  introduction to the principles and practices of User Interface (UI) and User
+  Experience (UX) Design. It covered key concepts such as user-centered design,
+  wireframing, prototyping, usability testing, and design tools. With a focus on
+  creating intuitive and engaging user interfaces, the course emphasized
+  practical skills and real-world applications. 
 featuredImage:
   type: ImageBlock
   url: /images/Microsoft-story.jpg
