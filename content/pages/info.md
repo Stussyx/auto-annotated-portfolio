@@ -6,11 +6,28 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hello, I'm **James Luis S. Legaspi**, a passionate and detail-oriented
+      graduate of **Immaculate Conception International College**, where I
+      earned my **Bachelor of Science in Information Systems**. My academic
+      journey, combined with hands-on experience, has equipped me with a solid
+      foundation in programming, database management, and information systems.
+
+
+      During my internship at **San Gabriel Rural Waterworks and Development
+      Cooperative**, I developed valuable technical and organizational skills,
+      such as data encoding, documentation, and system record management. This
+      experience not only honed my ability to work with technology but also
+      reinforced my commitment to precision and quality in every task.
+
+
+      I am proficient in a range of programming languages and tools, including
+      **Java, SQL/MySQL, PHP, C#, HTML/CSS**, and **JavaScript**. I’m also
+      experienced with **Git** version control, which complements my ability to
+      adapt to modern development environments.
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
