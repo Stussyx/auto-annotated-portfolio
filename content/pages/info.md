@@ -81,7 +81,7 @@ sections:
       - type: Label
         label: C#
       - type: Label
-        label: React
+        label: HTML & CSS
       - type: Label
         label: Microsoft Office
       - type: Label
