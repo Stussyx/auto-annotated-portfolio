@@ -14,7 +14,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/462537114_412280891905132_8920801224337704593_n.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
