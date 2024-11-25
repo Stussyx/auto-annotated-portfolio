@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Thesis/Capstone Project
 colors: colors-a
 date: '2024-04-10'
-client: Awesome client
+client: ICI-College
 description: >-
   Our capstone project, the Research Archiving System, is a comprehensive
   platform designed to streamline the storage, retrieval, and management of
