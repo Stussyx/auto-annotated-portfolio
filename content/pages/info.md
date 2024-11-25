@@ -12,7 +12,7 @@ sections:
       College**, where I earned my **Bachelor of Science in Information
       Systems**. My academic journey, combined with hands-on experience, has
       equipped me with a solid foundation in programming, database management,
-      and information systems. 
+      and information systems.
 
 
       #### During my internship at **San Gabriel Rural Waterworks and
@@ -27,13 +27,6 @@ sections:
       including **Java, SQL/MySQL, PHP, C#, HTML/CSS**, and **JavaScript**. I’m
       also experienced with **Git** version control, which complements my
       ability to adapt to modern development environments.
-
-
-
-
-
-
-      ###
 
     media:
       type: ImageBlock
