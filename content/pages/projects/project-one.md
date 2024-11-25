@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Fundamentals
+title: Fundamentals of UI/UX Design
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
