@@ -3,49 +3,6 @@ type: PageLayout
 title: About
 colors: colors-a
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: >+
-      <div style="text-align: left">###### Hello, I'm **James Luis S. Legaspi**,
-      a passionate and detail-oriented graduate of **Immaculate Conception
-      International College**, where I earned my **Bachelor of Science in
-      Information Systems**. My academic journey, combined with hands-on
-      experience, has equipped me with a solid foundation in programming,
-      database management, and information systems.</div>
-
-
-      ###### During my internship at **San Gabriel Rural Waterworks and
-      Development Cooperative**, I developed valuable technical and
-      organizational skills, such as data encoding, documentation, and system
-      record management. This experience not only honed my ability to work with
-      technology but also reinforced my commitment to precision and quality in
-      every task.
-
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: DividerSection
     styles:
       self:
