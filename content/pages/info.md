@@ -92,8 +92,6 @@ sections:
         label: JavaScript
       - type: Label
         label: Git
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
