@@ -5,9 +5,10 @@ colors: colors-a
 date: '2024-04-10'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Our capstone project, the Research Archiving System, is a comprehensive
+  platform designed to streamline the storage, retrieval, and management of
+  academic research documents. This system aims to replace traditional manual
+  processes with a secure, efficient, and user-friendly digital solution.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
