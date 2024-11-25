@@ -15,11 +15,7 @@ sections:
       encoding, documentation, and system record management. This experience not
       only honed my ability to work with technology but also reinforced my
       commitment to precision and quality in every task. 
-    subtitle: >-
-      I am proficient in a range of programming languages and tools, including
-      Java, SQL/MySQL, PHP, C#, HTML/CSS, and JavaScript. I’m also experienced
-      with Git version control, which complements my ability to adapt to modern
-      development environments.
+    subtitle: ''
     actions: []
     media:
       type: ImageBlock
