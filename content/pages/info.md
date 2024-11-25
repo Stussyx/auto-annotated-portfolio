@@ -16,9 +16,10 @@ sections:
       only honed my ability to work with technology but also reinforced my
       commitment to precision and quality in every task. 
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am proficient in a range of programming languages and tools, including
+      Java, SQL/MySQL, PHP, C#, HTML/CSS, and JavaScript. I’m also experienced
+      with Git version control, which complements my ability to adapt to modern
+      development environments.
     actions: []
     media:
       type: ImageBlock
