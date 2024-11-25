@@ -3,7 +3,7 @@ type: ProjectLayout
 title: App Dev Project
 colors: colors-a
 date: '2023-12-16'
-client: Awesome client
+client: ''
 description: >-
   I developed a Point of Sale (POS) system as part of my app development
   project. The POS system is designed to streamline sales transactions, track
