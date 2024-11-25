@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Fundamentals of UI/UX Design
 colors: colors-a
-date: '2021-10-15'
+date: '2024-10-15'
 client: Awesome client
 description: >-
   This course, offered by Microsoft on Coursera, provided a comprehensive
