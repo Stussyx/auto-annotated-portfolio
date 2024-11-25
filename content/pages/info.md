@@ -91,7 +91,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: C++
+        label: Git
       - type: Label
         label: Swift
   - type: DividerSection
