@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Thesis/Capstone Project
 colors: colors-a
-date: '2024-04-20'
+date: '2024-04-10'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
