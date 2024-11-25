@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "light": "#ffffff",
+    "light": "#e7e7e7",
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
@@ -8,18 +8,18 @@
     "onPrimary": "#FBFFF2",
     "secondary": "#FE491F",
     "onSecondary": "#050806",
-    "complementary": "#565862",
+    "complementary": "#d4d5db",
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "6xl",
-        "weight": "medium",
+        "size": "3xl",
+        "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
     "h2": {
-        "size": "5xl",
+        "size": "3xl",
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
