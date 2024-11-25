@@ -7,8 +7,7 @@ client: Awesome client
 description: >-
   Our capstone project, the Research Archiving System, is a comprehensive
   platform designed to streamline the storage, retrieval, and management of
-  academic research documents. This system aims to replace traditional manual
-  processes with a secure, efficient, and user-friendly digital solution.
+  academic research documents. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
