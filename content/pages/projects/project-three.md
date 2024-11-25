@@ -5,9 +5,10 @@ colors: colors-a
 date: '2023-12-16'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I developed a Point of Sale (POS) system as part of my app development
+  project. The POS system is designed to streamline sales transactions, track
+  inventory, and generate reports, offering a user-friendly interface for
+  efficient management in retail environments.
 featuredImage:
   type: ImageBlock
   url: /images/467476548_877273024585222_272393182736536458_n.png
