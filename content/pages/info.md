@@ -26,7 +26,7 @@ sections:
       type: ImageBlock
       url: /images/462537114_412280891905132_8920801224337704593_n.jpg
       altText: Hero image
-      elementId: px10
+      elementId: ''
     styles:
       self:
         height: auto
