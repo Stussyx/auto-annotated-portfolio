@@ -7,12 +7,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ###### Hello, I'm **James Luis S. Legaspi**, a passionate and
-      detail-oriented graduate of **Immaculate Conception International
-      College**, where I earned my **Bachelor of Science in Information
-      Systems**. My academic journey, combined with hands-on experience, has
-      equipped me with a solid foundation in programming, database management,
-      and information systems.
+      ######
+      ![](/images/462537114_412280891905132_8920801224337704593_n.jpg)Hello, I'm
+      **James Luis S. Legaspi**, a passionate and detail-oriented graduate of
+      **Immaculate Conception International College**, where I earned my
+      **Bachelor of Science in Information Systems**. My academic journey,
+      combined with hands-on experience, has equipped me with a solid foundation
+      in programming, database management, and information systems.
 
 
       ###### During my internship at **San Gabriel Rural Waterworks and
