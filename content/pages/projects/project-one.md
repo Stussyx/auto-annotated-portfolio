@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Fundamentals of UI/UX Design
 colors: colors-a
 date: '2024-10-17'
-client: Awesome client
+client: ''
 description: >-
   This course, offered by Microsoft on Coursera, provided a comprehensive
   introduction to the principles and practices of User Interface (UI) and User
