@@ -8,9 +8,7 @@ description: >-
   This course, offered by Microsoft on Coursera, provided a comprehensive
   introduction to the principles and practices of User Interface (UI) and User
   Experience (UX) Design. It covered key concepts such as user-centered design,
-  wireframing, prototyping, usability testing, and design tools. With a focus on
-  creating intuitive and engaging user interfaces, the course emphasized
-  practical skills and real-world applications. 
+  wireframing, prototyping, usability testing, and design tools. 
 featuredImage:
   type: ImageBlock
   url: /images/Microsoft-story.jpg
