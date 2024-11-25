@@ -14,11 +14,7 @@ sections:
       developed valuable technical and organizational skills, such as data
       encoding, documentation, and system record management. This experience not
       only honed my ability to work with technology but also reinforced my
-      commitment to precision and quality in every task. I am proficient in a
-      range of programming languages and tools, including Java, SQL/MySQL, PHP,
-      C#, HTML/CSS, and JavaScript. I’m also experienced with Git version
-      control, which complements my ability to adapt to modern development
-      environments.
+      commitment to precision and quality in every task. 
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
