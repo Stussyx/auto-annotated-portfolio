@@ -23,10 +23,7 @@ sections:
       every task.
 
 
-      #### I am proficient in a range of programming languages and tools,
-      including **Java, SQL/MySQL, PHP, C#, HTML/CSS**, and **JavaScript**. I’m
-      also experienced with **Git** version control, which complements my
-      ability to adapt to modern development environments.
+      ####
 
     media:
       type: ImageBlock
