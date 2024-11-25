@@ -13,21 +13,6 @@ sections:
       journey, combined with hands-on experience, has equipped me with a solid
       foundation in programming, database management, and information systems.
 
-
-      During my internship at **San Gabriel Rural Waterworks and Development
-      Cooperative**, I developed valuable technical and organizational skills,
-      such as data encoding, documentation, and system record management. This
-      experience not only honed my ability to work with technology but also
-      reinforced my commitment to precision and quality in every task.
-
-
-      I am proficient in a range of programming languages and tools, including
-      **Java, SQL/MySQL, PHP, C#, HTML/CSS**, and **JavaScript**. I’m also
-      experienced with **Git** version control, which complements my ability to
-      adapt to modern development environments.
-
-
-
     media:
       type: ImageBlock
       url: /images/about.jpg
