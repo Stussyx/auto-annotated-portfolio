@@ -10,7 +10,7 @@ description: >-
   academic research documents. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/ras.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
