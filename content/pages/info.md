@@ -85,7 +85,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: Next.js
+        label: Java
       - type: Label
         label: Netlify
       - type: Label
