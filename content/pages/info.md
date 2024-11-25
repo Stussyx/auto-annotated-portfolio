@@ -23,11 +23,6 @@ sections:
       technology but also reinforced my commitment to precision and quality in
       every task.
 
-    media:
-      type: ImageBlock
-      url: /images/462537114_412280891905132_8920801224337704593_n.jpg
-      altText: Hero image
-      elementId: ''
     styles:
       self:
         height: auto
