@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/rass.png
+  url: /images/467464076_1093231928938275_5475477113077803548_n.png
   altText: Project image
 ---
 
