@@ -83,7 +83,7 @@ sections:
       - type: Label
         label: HTML & CSS
       - type: Label
-        label: Microsoft Office
+        label: PHP
       - type: Label
         label: Next.js
       - type: Label
